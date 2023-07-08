@@ -10,25 +10,14 @@ https://leonardoalmir.github.io/lp-bikecraft-origamid/
 ## O que foi possível aplicar e aprofundar neste projeto:
 
 - Grid.
-
 - Flexbox.
-
 - Pseudo-classes.
-
 - Pseudo-elementos.
-
 - Media query.
-
 - Modo escuro e modo claro de acordo com as preferências do sistema operacional o do usuário.
-
 - Técnica de borda transparente.
-
 - Variáveis em CSS.
-
 - Otimização de imagens.
-
 - Imagens de background.
-
 - Semântica e Acessibilidade.
-
 - Técnicas de design (Cores e tipografia).
