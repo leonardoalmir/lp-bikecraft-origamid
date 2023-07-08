@@ -9,15 +9,15 @@ https://leonardoalmir.github.io/lp-bikecraft-origamid/
 
 ## O que foi possível aplicar e aprofundar neste projeto:
 
-- Grid;
+- Grid.
 
-- Flexbox;
+- Flexbox.
 
 - Pseudo-classes.
 
-- Pseudo-elementos;
+- Pseudo-elementos.
 
-- Media query;
+- Media query.
 
 - Modo escuro e modo claro de acordo com as preferências do sistema operacional o do usuário.
 
@@ -25,7 +25,9 @@ https://leonardoalmir.github.io/lp-bikecraft-origamid/
 
 - Variáveis em CSS.
 
-- Otimização de imagens;
+- Otimização de imagens.
+
+- Imagens de background.
 
 - Semântica e Acessibilidade.
 
